@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is David. I'm studying at ITMO University, Saint-Petersburg, Russia. I'm currently working at [Etersoft](https://github.com/etersoft).
+My name is David. I'm studying at ITMO University, Saint-Petersburg, Russia.
 
 ### Whoami
 
-Full-stack web dev (python/node). Linux anarсhist. Cyber-samurai. Open source evangelist. 
+Full-stack web dev (python/node).
 
 ### Pet-projects
 
